@@ -1,0 +1,67 @@
+.navbar{
+    background-color:#F3E6D4;
+}
+.navbar-brand{
+    font-size: 2em;
+    font-weight: bold;
+    color: #5A3761;
+    font-family:'Raleway', sans-serif ;
+}
+.navbar-brand:hover{
+    color:#5A3761;
+}
+.nav-link{
+    color: #5A3761;
+    font-weight: bold;
+}
+.nav-link:hover{
+    color:#A11312 ;
+}
+.nav-item{
+    border-radius: 25px;
+}
+body{
+    font-family:'Raleway', sans-serif ;
+    
+}
+.intro{
+    background-image: url(./home-background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #5A3761;
+}
+.footer{
+    background-color: #5A3761;
+    color: #F3E6D4;
+}
+.this-is-us{
+    font-family: 'Courier New', Courier, monospace;
+}
+.about-intro{
+    background-image: url(./Zm6bY9iduN5s6TL8EUGFdfpUlJqVsiDh1577977124.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;   
+}
+#our-services{
+    color: #5A3761;
+}
+h1{
+    color: #5A3761;
+}
+.working-hours{
+    font-size: larger;
+    margin-top: 20px;
+}
+.service-logo{
+    background-color: #5A3761;
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+.service-logo:hover{
+    height: 95%;
+    width: 95%;
+}
+.appointment-request-btn:hover{
+    background-color: #4CAF50;
+}
