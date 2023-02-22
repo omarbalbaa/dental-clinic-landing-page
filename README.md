@@ -5,7 +5,7 @@
 implement a deep learning model for face detection, and 
 expression recognition.
 
-## Project description
+# Project description
 It is a landing page for a dental clinic. The website’s main goal through the four main pages
 is to show the available services that the clinic offers and show how professional its doctors 
 are. The patient or visitor can request an appointment by entering his data and 
