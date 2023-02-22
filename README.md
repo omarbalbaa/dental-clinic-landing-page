@@ -1,7 +1,8 @@
 # dental clinic landing page
 
 # Used APIs
-Face-api-min.js : to implement a deep learning model for face detection, and 
+## Face-api-min.js
+implement a deep learning model for face detection, and 
 expression recognition.
 
 ## Project description
